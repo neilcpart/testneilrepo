@@ -11,3 +11,5 @@ sys.___stdout__=sys.stdout
 df = pd.DataFrame(np.random.randn(4,3),columns=['A','B','C'])
 
 for key,value in df.iteritems():
+  
+  # additional edits
